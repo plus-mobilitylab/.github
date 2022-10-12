@@ -1,0 +1,3 @@
+## PLUS Mobility Lab
+
+Hi there! :wave: We are the Mobility Lab of the Paris Lodron University of Salzburg, Austria. We are a group of geoinformatics researchers trying to contribute to a better understanding of the diverse connections and dependencies between mobility and spatial conditions.For more information about us and our research, visit our [website](https://mobilitylab.zgis.at/en/home-2/). We are advocates of open and reproducible research, and therefore aim to share much of the code we write in our research projects publicly through this GitHub organization. For any questions or comments, don't hesitate to contact us!
